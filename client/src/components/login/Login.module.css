@@ -1,0 +1,37 @@
+.main {
+    background: rgb(252, 252, 252);
+    text-align: center;
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+  .signup_btn{
+    padding: 10px 40px;
+    background: gold;
+    border: 0.1px solid silver;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  .signup_btn:hover{
+    background: rgb(230, 203, 55);
+    transition: 0.2s;
+  }
+  input{
+    padding: 8px 25px;
+    margin: 10px;
+    border: 0.1px solid silver;
+  }
+  input:focus{
+    outline: none;
+  }
+  .signin_btn{
+    padding: 10px 40px;
+    background: blue;
+    color: white;
+    border: 0.1px solid silver;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  .signin_btn:hover{
+    background: rgb(58, 58, 241);
+    transition: 0.2s;
+  }
+  
